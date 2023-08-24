@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d RiyaPortfolio"
+    "deploy": "gh-pages -d ."
   },
   "homepage": "https://oshrestha111.github.io/RiyaPortfolio",
   "eslintConfig": {
