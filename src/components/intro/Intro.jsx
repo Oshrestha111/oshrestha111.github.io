@@ -7,14 +7,15 @@ const Intro = () => {
 			<div className='i'>
 				<div className='i-left'>
 					<div className='i-left-wrapper'>
-						<h2 className='i-intro'>Namaste, Myself</h2>
-						<h1 className='i-name'>Riya Shrestha</h1>
+						<h2 className='i-intro'>Hello There!!</h2>
+						<h1 className='i-name'>I'm Riya Shrestha</h1>
 						<div className='i-title'>
 							<div className='i-title-wrapper'>
+								<div className='i-title-item'>Associate DevOps </div>
+								{/* <br /> */}
 								<div className='i-title-item'>Developer</div>
-								<div className='i-title-item'>Singer</div>
-								<div className='i-title-item'>Model</div>
-								<div className='i-title-item'>Entertainer</div>
+								<div className='i-title-item'>Co-Founder of Oriso.np</div>
+								<div className='i-title-item'>Enthusiast</div>
 							</div>
 						</div>
 						<p className='i-desc'>
